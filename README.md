@@ -11,4 +11,4 @@ The main contributions of YOLO-CoffeeRust are as follows:
 <div align="center"> <h4>The architecture of YOLO </h4> </div>
 
 ### Visualization
-![gif](Images/V2.gif)
+![gif](Images/V1.gif)
