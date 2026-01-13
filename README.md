@@ -1,9 +1,11 @@
 ## Introduction
-we present YOLO-FD, a multi-task learning network specifically designed for simultaneous detection and segmentation.
-YOLO-FD extends the YOLOv8 backbone by integrating a novel semantic segmentation branch dedicated to precisely segmenting infected areas in diseased fish, 
-while retaining the original object detection branch for identifying infected fish.
-The main contributions of **YOLO-FD**  are as follows:
-*	**Integrating a novel semantic segmentation branch into the YOLOv8 network**
-*	**Proposing a multi-task learning network YOLO-FD for detection and segmentation**
-*	**Weight uncertainty and PCGrad are employed to YOLO-FD**
-*	**Achieving accurate fish disease detection and assessment of fish disease severity**
+we present YOLO-CoffeeRust, a deep learning–based detection model specifically designed for the automatic identification of coffee leaf rust.
+YOLO-CoffeeRust extends the YOLOv8 backbone to accurately detect rust-affected regions on coffee leaves,
+while retaining the original object detection branch for real-time disease identification.
+The main contributions of YOLO-CoffeeRust are as follows:
+*	**Adapting the YOLOv8 architecture for coffee leaf rust detection**
+*	**Developing a robust object detection model for identifying rust-affected regions**
+*	**Training and evaluating the model using annotated coffee leaf datasets**
+*	**Achieving accurate and efficient coffee rust detection for agricultural applications**
+![jpeg](Images/Arquitecture.png)
+<div align="center"> <h4>The architecture of YOLO </h4> </div>
