@@ -11,5 +11,12 @@ The main contributions of YOLO-CoffeeRust are as follows:
 ![jpeg](Images/Arquitecture.jpeg)
 <div align="center"> <h4>The architecture of YOLO </h4> </div>
 
+### Requirements
+1. Python 3.8+
+2. OpenCV 4.5+
+3. PyTorch 1.8+
+4. NumPy
+5. Ultralytics (YOLOv8)
+
 ### Visualization
 ![gif](Images/V1.gif)
