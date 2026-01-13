@@ -7,7 +7,7 @@ The main contributions of YOLO-CoffeeRust are as follows:
 *	**Developing a robust object detection model for identifying rust-affected regions**
 *	**Training and evaluating the model using annotated coffee leaf datasets**
 *	**Achieving accurate and efficient coffee rust detection for agricultural applications**
-![jpeg](Images/Arquitecture.png)
+![jpeg](Images/Arquitecture.jpeg)
 <div align="center"> <h4>The architecture of YOLO </h4> </div>
 
 ### Visualization
