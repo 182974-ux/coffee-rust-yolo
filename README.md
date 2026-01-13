@@ -9,3 +9,6 @@ The main contributions of YOLO-CoffeeRust are as follows:
 *	**Achieving accurate and efficient coffee rust detection for agricultural applications**
 ![jpeg](Images/Arquitecture.png)
 <div align="center"> <h4>The architecture of YOLO </h4> </div>
+
+### Visualization
+![gif](Images/V1.gif)
