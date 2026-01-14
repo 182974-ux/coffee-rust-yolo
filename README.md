@@ -18,6 +18,22 @@ The main contributions of YOLO-CoffeeRust are as follows:
 4. NumPy
 5. Ultralytics (YOLOv8)
 
+## How to use?
+1. Clone the repository
+
+  `git clone https://github.com/182974-ux/coffee-rust-yolo.git`
+  
+2. Install the required libraries
+
+  `pip install -r requirements.txt`
+  
+3. Run the main file
+
+  `python main.py`
+
+
+---
+
 ### Visualization
 ![gif](Images/V1.gif)
 
